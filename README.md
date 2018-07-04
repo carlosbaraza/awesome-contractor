@@ -4,12 +4,18 @@ A curated list of resources to create productive and profitable contracting busi
 
 * Awesome Contractor
 	* [Beginner Books](#beginner-books)
+	* [Forums](#forums)
 
 
 Beginner Books
 ---
 
-#### Contractors' Handbook: The Expert Guide for UK Contractors and Freelancers [[Amazon]](https://www.amazon.co.uk/Contractors-Handbook-Expert-Guide-Freelancers/dp/1527216039) 
+#### Contractors' Handbook: The Expert Guide for UK Contractors and Freelancers [[Amazon]](https://www.amazon.co.uk/Contractors-Handbook-Expert-Guide-Freelancers/dp/1527216039)
+
+Forums
+---
+
+#### [Contractor UK Forum](https://forums.contractoruk.com/)
 
 
 Contributing
