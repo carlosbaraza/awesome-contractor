@@ -1,10 +1,11 @@
 Contractor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
-A curated list of resources to create productive and profitable contracting business
+A curated list of resources to create productive and profitable contracting business in the UK
 
 * Awesome Contractor
 	* [Beginner Books](#beginner-books)
 	* [Forums](#forums)
+	* [How to do it](#how-to-do-it)
 
 
 Beginner Books
@@ -17,6 +18,13 @@ Forums
 
 #### [Contractor UK Forum](https://forums.contractoruk.com/)
 
+How to do it
+---
+
+#### [Set up a limited company](https://www.gov.uk/limited-company-formation)
+#### [Set up a business bank account](https://www.moneysupermarket.com/current-accounts/business-bank-accounts/)
+#### [Hire an accountant (optional)](https://www.contractorcalculator.co.uk/10_tips_choosing_contractor_accountant.aspx)
+#### [Set up professional indemnity insurance (some clients require this)](https://www.simplybusiness.co.uk/insurance/professional-indemnity/)
 
 Contributing
 ====
