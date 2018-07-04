@@ -4,6 +4,7 @@ A curated list of resources to create productive and profitable contracting busi
 
 * Awesome Contractor
 	* [Beginner Books](#beginner-books)
+	* [Forums](#forums)
 
 
 Beginner Books
